@@ -9,7 +9,7 @@ User Interface: An intuitive and user-friendly interface for users to input thei
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/bhargavreddy0/placement_predictor.git
+git clone https://github.com/bhargavreddy0/placement_predictor.git</br>
 cd placement_predictor
 
 2. Install dependencies:
